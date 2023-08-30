@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="EGit.KnownHosts">
+		<item value="bitbucket.org"/>
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/Sudha-Agarwal/FSD_Phase3_Deviare"/>
+		<item value="https://github.com/Sudha-Agarwal/FSD_Phase3_Deviare/tree/main/FSD4RestAPI"/>
+	</list>
+	<section name="GitImportWizard">
+	</section>
+</section>
